@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.titulo {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: bisque;
+}
+
+.banner {
+  width: 100%;
+}
+
+.conteudo {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.beneficios-img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.beneficios {
+  display: flex;
+  justify-content: space-around;
+}
+
+header {
+  margin: 20px;
+}
+
+.lista {
+  background: rgb(185, 185, 185);
+  border: 1px solid;
+  padding: 20px;
+  border-radius: 5px;
+}
+

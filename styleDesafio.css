@@ -1,0 +1,26 @@
+.imagem-topo {
+  width: 30px;
+  height: 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.conteudo {
+  width: 200px;
+  padding: 20px;
+}
+
+#conteudo1 {
+  background: chartreuse;
+}
+
+#conteudo2 {
+  background: rgb(0, 26, 255);
+}
+
+#conteudo3 {
+  background: rgb(255, 0, 128);
+}
